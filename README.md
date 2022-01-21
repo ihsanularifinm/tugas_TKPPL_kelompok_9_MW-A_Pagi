@@ -1,52 +1,31 @@
+<h1 align="center">Vue.js</h1>
 <p align="center">
   <a href="https://revealjs.com">
-  <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text-sticker.png" alt="reveal.js" width="500">
+  <img src="https://vuejs.org/images/logo.svg" alt="vue.js" width="300">
   </a>
-  <br><br>
-  <a href="https://github.com/hakimel/reveal.js/actions"><img src="https://github.com/hakimel/reveal.js/workflows/tests/badge.svg"></a>
-  <a href="https://slides.com/"><img src="https://s3.amazonaws.com/static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
-</p>
+</p> 
 
-reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create beautiful presentations for free. Check out the live demo at [revealjs.com](https://revealjs.com/).
+[Vue.js](https://vuejs.org/) adalah sebuah framework Javascript untuk membuat <i><b>user interface</b></i> dan <i>single-page application</i> (SPA).
 
-The framework comes with a powerful feature set including [nested slides](https://revealjs.com/vertical-slides/), [Markdown support](https://revealjs.com/markdown/), [Auto-Animate](https://revealjs.com/auto-animate/), [PDF export](https://revealjs.com/pdf-export/), [speaker notes](https://revealjs.com/speaker-view/), [LaTeX typesetting](https://revealjs.com/math/), [syntax highlighted code](https://revealjs.com/code/) and an [extensive API](https://revealjs.com/api/).
+Vue.js dikenal juga dengan Vue saja dan dieja seperti membaca kata view (/vju:/).
 
 ---
 
-### Sponsors
-Hakim's open source work is supported by <a href="https://github.com/sponsors/hakimel">GitHub sponsors</a>. Special thanks to:
-<div align="center">
-<a href="https://www.doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=revealjs&utm_source=github">
-  <div>
-    <img src="https://user-images.githubusercontent.com/629429/146530588-2980c34d-862f-4393-8ac3-65fbef6443ca.png" width="290" alt="Doppler">
-  </div>
-  <b>All your environment variables, in one place</b>
-  <div>
-    <sub>Stop struggling with scattered API keys, hacking together home-brewed tools,</sub>
-    <br>
-    <sup>and avoiding access controls. Keep your team and servers in sync with Doppler.</sup>
-  </div>
-</a>
-</div>
+### Sejarah Singkat Vue.js
+Vue awalnya dibuat oleh [<b>Evan You</b>](https://vuejs.org/) pada tahun 2013. Evan You sebelumnya bekerja di Google dengan Angularjs. Dia kemudian punya ide untuk membuat sesuatu yang lebih ringan dari Angular.
 
 ---
 
-### Getting started
-- 🚀 [Install reveal.js](https://revealjs.com/installation)
-- 👀 [View the demo presentation](https://revealjs.com/demo)
-- 📖 [Read the documentation](https://revealjs.com/markup/)
-- 🖌 [Try the visual editor for reveal.js at Slides.com](https://slides.com/)
-- 🎬 [Watch the reveal.js video course (paid)](https://revealjs.com/course)
+### 
+A
 
 ---
 
-### Online Editor
-Want to create your presentation using a visual editor? Try the official reveal.js presentation platform for free at [Slides.com](https://slides.com). It's made by the same people behind reveal.js.
-
-<br>
+### Kelompok 9
+Muhammad Ihsanul Arifin - 181114125<br>Binusal Simanjuntak - 181112451<br>Muhammad Nur Faiz Sitorus - 181112698<br>Yogie Reza Caesar Sinaga - 181113235
 <br>
 
 --- 
 <div align="center">
-  MIT licensed | Copyright © 2011-2022 Hakim El Hattab, https://hakim.se
+  Kelompok 9 MW-A Pagi
 </div>

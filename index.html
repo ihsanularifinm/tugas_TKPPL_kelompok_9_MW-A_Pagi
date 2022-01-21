@@ -1,40 +1,69 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
-		<title>reveal.js</title>
-
-		<link rel="stylesheet" href="dist/reset.css">
-		<link rel="stylesheet" href="dist/reveal.css">
-		<link rel="stylesheet" href="dist/theme/black.css">
-
-		<!-- Theme used for syntax highlighted code -->
-		<link rel="stylesheet" href="plugin/highlight/monokai.css">
-	</head>
-	<body>
-		<div class="reveal">
-			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
-			</div>
-		</div>
-
-		<script src="dist/reveal.js"></script>
-		<script src="plugin/notes/notes.js"></script>
-		<script src="plugin/markdown/markdown.js"></script>
-		<script src="plugin/highlight/highlight.js"></script>
-		<script>
-			// More info about initialization & config:
-			// - https://revealjs.com/initialization/
-			// - https://revealjs.com/config/
-			Reveal.initialize({
-				hash: true,
-
-				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
-			});
-		</script>
-	</body>
+    <head>
+        <meta charset="utf-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+        />
+        <title>Slide Presentase Vue</title>
+        <link rel="icon" href="https://vuejs.org/images/logo.svg" />
+        <link rel="stylesheet" href="dist/reset.css" />
+        <link rel="stylesheet" href="dist/reveal.css" />
+        <link rel="stylesheet" href="dist/theme/black.css" />
+        <!-- Theme used for syntax highlighted code -->
+        <link rel="stylesheet" href="plugin/highlight/monokai.css" />
+    </head>
+    <body>
+        <div class="reveal">
+            <div class="slides">
+                <section data-auto-animate>
+                    <section data-auto-animate>
+                        <h1>Vue.js</h1>
+                    </section>
+                    <section data-auto-animate>
+                        <h1>Vue.js</h1>
+                        <img
+                            src="https://vuejs.org/images/logo.svg"
+                            width="500"
+                        />
+                    </section>
+                </section>
+                <section>
+                    <h2>Apa itu Vue.js?</h2>
+                    <p style="text-align: justify; font-size: 38px;">
+                        <br>Vue.js adalah sebuah framework Javascript untuk membuat <i style="font-style: italic"><b>user interface</b></i> dan <i style="font-style: italic">single-page application</i> (SPA).<br><br>Vue.js dikenal juga dengan Vue saja dan dieja seperti membaca kata view (/vju:/).
+                    </p>
+                </section>
+                <section data-transition="zoom">
+                    <h2>Sejarah Singkat Vue.js</h2>
+                    <p style="text-align: justify;">
+                        <br>Vue awalnya dibuat oleh <b>Evan You</b> pada tahun 2013.<br><br>Evan You sebelumnya bekerja di Google dengan Angular.js, dia kemudian punya ide untuk membuat sesuatu yang lebih ringan dari Angular.
+                    </p>
+                </section>
+                <section>
+                    <h2>Kelompok 9</h2>
+                    <p>
+                        Muhammad Ihsanul Arifin - 181114125<br />Binusal Simanjuntak - 181112451<br />Muhammad Nur Faiz Sitorus
+                        - 181112698<br>Yogie Reza Caesar Sinaga - 181113235
+                    </p>
+                </section>
+            </div>
+        </div>
+        <script src="dist/reveal.js"></script>
+        <script src="plugin/notes/notes.js"></script>
+        <script src="plugin/markdown/markdown.js"></script>
+        <script src="plugin/highlight/highlight.js"></script>
+        <script>
+            // More info about initialization & config:
+            // - https://revealjs.com/initialization/
+            // - https://revealjs.com/config/
+            Reveal.initialize({
+                hash: true,
+                // Learn about plugins: https://revealjs.com/plugins/
+                plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+                slideNumber: 'c/t',
+            });
+        </script>
+    </body>
 </html>
